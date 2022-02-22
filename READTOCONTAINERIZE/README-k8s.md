@@ -25,6 +25,7 @@ Check the application is reachable from the NodePort IP.
     # curl -I http://172.19.74.91:80
 
 Connect to the app using any of the node IPs on the NodePort. From browser hit
+
 http://10.38.16.50:30685/
 
 http://10.38.16.52:30685/
